@@ -12,7 +12,7 @@
 
 ### Preferred Working Environment:
 
-[<img align="left" alt="Visual Studio Code" width="36px" src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png?raw=true" />][vscode]
+[<img align="left" alt="Visual Studio Code" width="36px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />][vscode]
 [<img align="left" alt="oh my zsh" height="36px" src="https://ohmyz.sh/img/OMZLogo_BnW.png" />][ohmyzsh]
 
 <br />
@@ -20,11 +20,11 @@
 
 ### DevSecOps Tooling:
 
-[<img align="left" alt="Ansible" width="36px" src="https://github.com/github/explore/blob/master/topics/ansible/ansible.png?raw=true" />][ansible]
+[<img align="left" alt="Ansible" width="36px" src="https://www.danmanners.com/images/ansible.webp" />][ansible]
 [<img align="left" alt="Puppet Bolt" width="36px" src="https://www.danmanners.com/images/puppetbolt.png" />][bolt]
 [<img align="left" alt="Terraform" width="36px" src="https://www.danmanners.com/images/terraform.png" />][terraform]
-[<img align="left" alt="Docker" width="36px" src="https://github.com/github/explore/blob/master/topics/docker/docker.png?raw=true" />][docker]
-[<img align="left" alt="Kubernetes" width="36px" src="https://github.com/github/explore/blob/master/topics/kubernetes/kubernetes.png?raw=true" />][k8s]
+[<img align="left" alt="Docker" width="36px" src="https://www.danmanners.com/images/docker.png" />][docker]
+[<img align="left" alt="Kubernetes" width="36px" src="https://www.danmanners.com/images/kubernetes.png" />][k8s]
 [<img align="left" alt="Docker Swarm" width="36px" src="https://www.danmanners.com/images/dockerswarm.png" />][docker]
 
 <br />
@@ -48,17 +48,19 @@
 [<img align="left" alt="Gitlab" width="36px" src="https://www.danmanners.com/images/gitlab.png" />][gitlab]
 [<img align="left" alt="Rocket.Chat" width="36px" src="https://www.danmanners.com/images/rocketchat.png" />][rc]
 [<img align="left" alt="Atlassian Tools " width="36px" src="https://www.danmanners.com/images/atlassian.png" />][atlassian]
-[<img align="left" alt="Jenkins" width="36px" src="https://github.com/github/explore/blob/master/topics/jenkins/jenkins.png?raw=true" />][jenkins]
+[<img align="left" alt="Jenkins" width="36px" src="https://www.danmanners.com/images/jenkins.png" />][jenkins]
 [<img align="left" alt="Sonarqube" width="36px" src="https://www.sonarqube.org/images/downloads/picto.svg" />][sonarqube]
 [<img align="left" alt="Nexus OSS" width="36px" src="https://help.sonatype.com/docs/files/331022/34537964/3/1564671303641/NexusRepo_Icon.png" />][nexus-oss]
 [<img align="left" alt="Artifactory" height="44px" src="https://media.jfrog.com/wp-content/uploads/2017/12/20133018/artifactory.png.webp" />][artifactory]
 
+
+<br />
 <br />
 <br />
 
 ### Cloud Experience:
 
-[<img align="left" alt="AWS" width="52px" src="https://github.com/github/explore/blob/master/topics/aws/aws.png?raw=true" />][aws]
+[<img align="left" alt="AWS" width="52px" src="https://www.danmanners.com/images/aws.png" />][aws]
 [<img align="left" alt="Digital Ocean" width="52px" src="https://www.danmanners.com/images/digitalocean.png" />][do]
 
 <br />
