@@ -17,6 +17,7 @@
 
 <br />
 <br />
+<br />
 
 ### DevSecOps Tooling
 
@@ -29,6 +30,7 @@
 
 <br />
 <br />
+<br />
 
 ### Languages (Primary)
 
@@ -37,12 +39,14 @@
 
 <br />
 <br />
+<br />
 
 ### Languages (Secondary)
 
 [<img align="left" alt="Golang" width="36px" src="images/golang.png" />][golang]
 [<img align="left" alt="Ruby" width="36px" src="images/header-ruby-logo.png" />][ruby]
 
+<br />
 <br />
 <br />
 
@@ -62,6 +66,7 @@
 
 <br />
 <br />
+<br />
 
 ### Cloud Experience
 
@@ -69,6 +74,7 @@
 [<img align="left" alt="Google Cloud" width="48" src="images/google-cloud.png" />][gcloud]
 [<img align="left" alt="Digital Ocean" width="52px" src="images/digitalocean.png" />][do]
 
+<br />
 <br />
 <br />
 
@@ -80,12 +86,14 @@
 
 <br />
 <br />
+<br />
 
 ### Connect with me
 
 [<img align="left" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 [<img align="left" height="36px" src="images/gmail.png" />][email]
 
+<br />
 <br />
 <br />
 
