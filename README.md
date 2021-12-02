@@ -2,6 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=danmanners.com&style=for-the-badge&url=https%3A%2F%2Fdanmanners.com)](https://danmanners.com)
 
+![Dan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danmanners&show_icons=true&theme=tokyonight)
+
 ## What am I doing?
 
 - 🌉 Building automation for idempotent infrastructure
