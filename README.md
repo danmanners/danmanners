@@ -6,7 +6,7 @@
 
 ## What am I doing?
 
-- 🌉 Building automation for idempotent infrastructure
+- 🌉 Building out idempotent infrastructure @ [Cisco](https://cisco.com)
 - 🔐 Ensuring security on systems in zero-trust environments
 - 🎉 Making K8s easier for everyone deploying or managing it
 - 📦 Containerizing **_ALL OF THE THINGS_**
