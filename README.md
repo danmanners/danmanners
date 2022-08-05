@@ -26,9 +26,10 @@
 [<img align="left" alt="Ansible" width="36px" src="images/ansible.webp" />][ansible]
 [<img align="left" alt="Puppet Bolt" width="36px" src="images/puppetbolt.png" />][bolt]
 [<img align="left" alt="Terraform" width="36px" src="images/terraform.png" />][terraform]
-[<img align="left" alt="Docker" width="36px" src="images/docker.png" />][docker]
 [<img align="left" alt="Kubernetes" width="36px" src="images/kubernetes.png" />][k8s]
-[<img align="left" alt="Docker Swarm" width="36px" src="images/dockerswarm.png" />][docker]
+[<img align="left" alt="Docker" width="36px" src="images/docker.png" />][docker]
+[<img align="left" alt="Podman" width="36px" src="images/podman.png" />][podman]
+[<img align="left" alt="Buildah" width="36px" src="images/buildah.png" />][buildah]
 
 <br />
 <br />
@@ -75,6 +76,7 @@
 
 [<img align="left" alt="AWS" width="52px" src="images/aws.png" />][aws]
 [<img align="left" alt="Google Cloud" width="48" src="images/google-cloud.png" />][gcloud]
+[<img align="left" alt="Azure" width="48" src="images/azure.png" />][azure]
 [<img align="left" alt="Digital Ocean" width="52px" src="images/digitalocean.png" />][do]
 
 <br />
@@ -83,9 +85,9 @@
 
 ### Baremetal Hypervisors
 
-[<img align="left" alt="oVirt" height="36px" src="images/ovirt-icon-256.png" />][ovirt]
-[<img align="left" alt="VMWare" height="36px" src="images/vmware.png" />][esxi]
 [<img align="left" alt="Proxmox" height="40px" src="images/proxmox.png" />][proxmox]
+[<img align="left" alt="VMWare" height="36px" src="images/vmware.png" />][esxi]
+[<img align="left" alt="oVirt" height="36px" src="images/ovirt-icon-256.png" />][ovirt]
 
 <br />
 <br />
@@ -120,12 +122,15 @@
 [ansible]:      https://www.ansible.com/
 [bolt]:         https://puppet.com/docs/bolt/latest/bolt.html
 [terraform]:    https://www.terraform.io/
-[docker]:       https://www.docker.com/
 [k8s]:          https://kubernetes.io/
+[docker]:       https://www.docker.com/
+[podman]:       https://podman.io/
+[buildah]:      https://buildah.io/
 
 <!-- Cloud Providers -->
 [aws]:    https://aws.amazon.com/
-[gcloud]: https://cloud.google.com//
+[gcloud]: https://cloud.google.com/
+[azure]:  https://azure.microsoft.com/en-us/
 [do]:     https://www.digitalocean.com/
 
 <!-- Applications and Services -->
