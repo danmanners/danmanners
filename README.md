@@ -100,10 +100,6 @@
 
 <br />
 <br />
-<a href="https://mentorcruise.com/mentor/danielmanners/"> <img src="https://cdn.mentorcruise.com/img/banner/navy-mentoring-badge.svg" width="240" alt="MentorCruise"> </a>
-
-<br />
-<br />
 
 ---
 
