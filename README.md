@@ -16,7 +16,7 @@
 
 [<img align="left" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 [<img align="left" height="36px" src="images/gmail.png" />][email]
-
+<br>
 ---
 
 ###### Want your own personalized Github Readme? [codeSTACKr has an excellent YouTube video tutorial here](https://www.youtube.com/watch?v=ECuqb5Tv9qI) which will help get you started!
