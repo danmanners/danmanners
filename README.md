@@ -6,16 +6,19 @@
 
 ## What am I doing?
 
-- 🌉 Building out idempotent infrastructure @ [Cisco](https://cisco.com)
+- 🌉 Designing and building infrastructure and services @ [Cisco](https://cisco.com)
 - 🔐 Ensuring security on systems in zero-trust environments
+- 🎬 Scaling GitHub Actions for the Enterprise
 - 🎉 Making K8s easier for everyone deploying or managing it
 - 📦 Containerizing **_ALL OF THE THINGS_**
 - [☕ Drinking all of the coffee](https://ceremonycoffee.com/)
 
-## Connect with me
+## Connect with me!
 
 [<img align="left" height="36px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 [<img align="left" height="36px" src="images/gmail.png" />][email]
+<br><br>
+[Website 🕸️][website]
 <br><br>
 ---
 
